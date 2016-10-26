@@ -1534,7 +1534,7 @@
             </Component>
             <Component class="javax.swing.JButton" name="jButton8">
               <Properties>
-                <Property name="text" type="java.lang.String" value="hj"/>
+                <Property name="text" type="java.lang.String" value="jkj"/>
               </Properties>
               <Events>
                 <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="jButton8FocusGained"/>

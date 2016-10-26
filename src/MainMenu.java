@@ -1407,7 +1407,7 @@ NotesPanel.setVisible(false);
         });
         KeyCentre.add(jButton7);
 
-        jButton8.setText("C1");
+        jButton8.setText("jkj");
         jButton8.addFocusListener(new java.awt.event.FocusAdapter() {
             public void focusGained(java.awt.event.FocusEvent evt) {
                 jButton8FocusGained(evt);
